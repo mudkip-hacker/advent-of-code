@@ -5,6 +5,8 @@
     "__split_buffer": "cpp",
     "deque": "cpp",
     "string": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "*.tcc": "cpp",
+    "string_view": "cpp"
   }
 }
