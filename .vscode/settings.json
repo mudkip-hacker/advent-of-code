@@ -8,6 +8,11 @@
     "vector": "cpp",
     "*.tcc": "cpp",
     "string_view": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "utility": "cpp"
   }
 }
